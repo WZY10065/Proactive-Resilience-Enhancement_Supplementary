@@ -11,7 +11,11 @@ This repository contains supplementary files for the TII research paper. The fil
      - **System parameters**: Limits for power capacities and voltage settings.
 
 2. **Detailed Figure: Resilience Enhancement Strategies Under Different Fault Scenarios**
-   - A figure illustrating various resilience enhancement strategies applied under different fault scenarios. This visual aid helps readers understand the strategic approaches discussed in the paper.
+   - A figure files illustrating various resilience enhancement strategies applied under different fault scenarios. This visual aid helps readers understand the strategic approaches discussed in the paper. Here are some selected figures.
+![Case_1_Fault_Scenario1](https://github.com/user-attachments/assets/9620ed25-f8f2-4520-aa5e-d3b4abfc027f)
+![Case_4_Fault_Scenario1](https://github.com/user-attachments/assets/ab2de632-f86a-4e21-a3aa-0740abb74d89)
+
+
 
 3. **TII_Appendix.pdf**
    - This document serves as an appendix with additional data, calculations, and methodological explanations, designed to complement the main research paper.
