@@ -5,30 +5,24 @@ This repository contains supplementary files for the TII research paper. The fil
 ## File Descriptions
 
 1. **case_bus_40_F4.xlsx**
-   - **bus**: This sheet lists bus data, including:
-     - Power demand (`Pd` in MW, `Qd` in MVar)
-     - Coordinates (`Coordinate_x`, `Coordinate_y`)
-     - Substation flag (`Substation_Flag`), indicating whether a bus is part of a substation
-     - Distributed Generation candidate status (`DG_candidate`)
-     - Demand Response nodes (`DR_node`)
-     - Workload capacity
-   - **branch**: Details data on the connections (branches) between buses, including:
-     - Resistance (`r`)
-     - Reactance (`x`)
-   - **parameter**: Defines system parameters such as:
-     - Maximum power capacities (`S_max`, `DG_max`, `SS_max`)
-     - Voltage limits (`U_R`, `U_min`)
+   - This Excel file includes detailed data related to the case study. It may contain:
+     - **Bus data**: Information on power demand, coordinates, substation flags, and demand response nodes.
+     - **Branch data**: Details on network connections, including resistance and reactance values.
+     - **System parameters**: Limits for power capacities and voltage settings.
 
-2. **TII_Appendix.pdf**
-   - This appendix document provides additional details on the methodology and equations used in the study, serving as a complement to the main research paper. It is recommended for readers who want a deeper understanding of the case study and model design.
+2. **Detailed Figure: Resilience Enhancement Strategies Under Different Fault Scenarios**
+   - A figure illustrating various resilience enhancement strategies applied under different fault scenarios. This visual aid helps readers understand the strategic approaches discussed in the paper.
 
-3. **TII_Nomenclature.pdf**
-   - Contains definitions and explanations of symbols, abbreviations, and terms used throughout the study, making it easier for readers to understand technical details.
+3. **TII_Appendix.pdf**
+   - This document serves as an appendix with additional data, calculations, and methodological explanations, designed to complement the main research paper.
+
+4. **TII_Nomenclature.pdf**
+   - A glossary defining symbols, abbreviations, and terms used in the research study, making it easier to follow technical details.
 
 ## Usage
 
-Each file is intended to aid in reproducing and understanding the case study results in the main paper. The Excel file provides essential data inputs, while the PDF documents offer explanatory content and definitions.
+Each file supports the case study analysis in the main research paper. The Excel file provides core data inputs, while the PDF documents offer explanatory content, visual aids, and definitions.
 
 ---
 
-Feel free to explore the files for more detailed information related to each component of the case study.
+Explore these files for a more comprehensive understanding of each component of the case study.
