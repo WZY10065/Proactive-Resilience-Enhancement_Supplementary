@@ -1,4 +1,4 @@
-# IEEE-TII_Proactive Resilience Enhancement for Flexible Distribution Networks Containing Data Centers with Multiple Fault Phases Coupling_Supplementary
+# IEEE-TII_Proactive Resilience Enhancement for Flexible Distribution Networks Containing Data Centers With Multiple Fault Phases Coupling
 
 This repository contains supplementary files for the TII research paper. The files include data for case studies, additional methodological details, and a glossary of terms to support readers in understanding the main document.
 
