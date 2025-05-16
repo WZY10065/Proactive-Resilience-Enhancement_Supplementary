@@ -1,6 +1,6 @@
-# Proactive Topology-Variable-based Resilience Enhancement for Flexible Distribution Networks Containing Data Centers
+# Topology-Variable-Based Proactive Resilience Enhancement for Data Centers-Dominated Flexible Distribution Networks
 
-This repository contains supplementary files for the research paper "Proactive Topology-Variable-based Resilience Enhancement for Flexible Distribution Networks Containing Data Centers". The files include data for case studies, additional methodological details, and a glossary of terms to support readers in understanding the main document.
+This repository contains supplementary files for the research paper "Topology-Variable-Based Proactive Resilience Enhancement for Data Centers-Dominated Flexible Distribution Networks". The files include data for case studies, additional methodological details, and a glossary of terms to support readers in understanding the main document.
 
 ## File Descriptions
 
